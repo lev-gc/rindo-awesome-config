@@ -1,2 +1,3 @@
-# awesome-config
-some config files of tools
+# rindo-awesome-config
+
+> rindo, the config files of some tools.
