@@ -55,7 +55,7 @@
         "guid": "{2c4da342-38b7-51cf-b940-2309a097f51A}",
         "hidden": false,
         "name": "Git Bash",
-        "commandline": "C:/Workspace/Project/Git/bin/bash.exe",
+        "commandline": "/path/to/bash.exe",
         "useAcrylic": true,// 使用不透明度
         "acrylicOpacity": 0.9,// 不透明度
         "closeOnExit": true,// 退出后关闭
