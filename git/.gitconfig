@@ -1,0 +1,12 @@
+[user]
+        # set default name of user
+        name = xxx
+        # set default email of user
+        email = xxx
+[core]
+        # set autocrlf to transfer crlf to lf when commit, but not transfer lf to crlf when checkout.
+        autocrlf = input
+        # set case-sensitive of file/directory name.
+        ignorecase = false
+        # set quotepath false for not escaping unusual characters in path.
+        quotepath = false
