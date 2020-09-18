@@ -10,3 +10,5 @@
         ignorecase = false
         # set quotepath false for not escaping unusual characters in path.
         quotepath = false
+        # set global git ignore config
+        excludesfile = xxx/.gitignore_global
